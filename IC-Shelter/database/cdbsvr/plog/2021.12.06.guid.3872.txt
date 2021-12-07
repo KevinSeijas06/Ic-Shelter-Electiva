@@ -1,0 +1,29 @@
+[2021.12.06 20:31:50] [0000m.14s.719ms] [0] WELCOME
+[2021.12.06 20:31:50] [0000m.14s.719ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.12.06 20:31:50] [0000m.14s.719ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.12.06 20:31:50] [0000m.14s.719ms] [1] Base flow version [VX.2.7]
+[2021.12.06 20:31:50] [0000m.14s.719ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.12.06 20:31:50] [0000m.14s.719ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] Machine [DESKTOP-4VGHRT9]  IP [127.0.0.1,169.254.146.138,192.168.69.5]  User [ARCUS Computer]  PID [3872]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] Current working dir [C:\Users\ARCUS Computer\Desktop\IC-Shelter\IC-Shelter]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\ARCUS Computer\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\ARCUS Computer\AppData\Local\Programs\Python\Python37-32\;C:\Users\ARCUS Computer\AppData\Local\Microsoft\WindowsApps;C:\Users\ARCUS Computer\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\ARCUS Computer\AppData\Local\GitHubDesktop\bin]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] SDD_PLATFORM [win32]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.12.06 20:31:50] [0000m.14s.720ms] [3] File change time:        [2021-10-03 22.57.02]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] File modification time:  [2021-10-03 22.57.02]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Last change time:        [2021-10-03 22.57.02]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Last database open information:
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Time:             [2021-10-03 20.48.23]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Location:         [C:\Users\ARCUS Computer\Desktop\New folder (2)\IC-Shelter\IC-Shelter\database\icdb.dat]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Machine:          [DESKTOP-4VGHRT9]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] User:             [ARCUS Computer]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] PID:              [10932]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Application:      [iCDB Server]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Operating system: [Microsoft Windows 10 Business Edition, 64-bit (build 18363)]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Database GUID must be regenerated
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Previous database GUID [a674-9e12-b339-d3a6-65f4-a51c-5f4a-5160-b373-affd-6dca-e56e]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [3] Current database GUID  [e8dd-f1ca-7c04-ba07-67ba-ea1c-7bae-a160-b5eb-1a18-b607-e58b]
+[2021.12.06 20:31:50] [0000m.14s.721ms] [0] .

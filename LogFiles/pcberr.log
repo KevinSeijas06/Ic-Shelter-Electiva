@@ -1,0 +1,7 @@
+pcb: Note 6085: Schematic1 pkg U3: 2 empty slot(s), device ULN2003A_SOIC16
+pcb: Warning 6083: Schematic1 pin $1I13\$1I458\$1I139.4: Single pin net: $1I13\$1I458\_1N22
+pcb: Warning 6083: Schematic1 pin $1I45.PIN1: Single pin net: $1N22
+pcb: Warning 6094: Schematic1 pin $1I13\$1I466\$1I768.CATODE: Pin not connected
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 0, Notes 2, Warnings 3
+Errors 0, Failures 0, Fatals 0, Internals 0

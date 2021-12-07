@@ -1,0 +1,33 @@
+[2021-10-10 20.08.44] Successfully created [AutoSave] backup [2021-10-10 20.08.44 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-10-11 17.45.56] Successfully created [AutoSave] backup [2021-10-11 17.45.56 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-10-25 19.27.31] Successfully created [AutoSave] backup [2021-10-25 19.27.31 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-08 12.18.16] Successfully created [AutoSave] backup [2021-11-08 12.18.16 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-08 12.18.16] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-10-10 20.08.44 - auto.zip].
+[2021-11-08 12.18.16] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-10 20.08.44 - auto.zip] removed.
+[2021-11-10 15.35.09] Successfully created [AutoSave] backup [2021-11-10 15.35.09 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-10 15.35.09] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-10-11 17.45.56 - auto.zip].
+[2021-11-10 15.35.09] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-11 17.45.56 - auto.zip] removed.
+[2021-11-13 18.15.03] Successfully created [AutoSave] backup [2021-11-13 18.15.03 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-13 18.15.03] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-10-25 19.27.31 - auto.zip].
+[2021-11-13 18.15.03] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-25 19.27.31 - auto.zip] removed.
+[2021-11-13 22.15.03] Successfully created [AutoSave] backup [2021-11-13 22.15.03 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-13 22.15.03] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-11-08 12.18.16 - auto.zip].
+[2021-11-13 22.15.03] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-11-08 12.18.16 - auto.zip] removed.
+[2021-11-14 11.26.51] Successfully created [AutoSave] backup [2021-11-14 11.26.51 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-14 11.26.51] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-11-10 15.35.09 - auto.zip].
+[2021-11-14 11.26.51] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-11-10 15.35.09 - auto.zip] removed.
+[2021-11-14 15.26.51] Successfully created [AutoSave] backup [2021-11-14 15.26.51 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-14 15.26.51] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-11-13 18.15.03 - auto.zip].
+[2021-11-14 15.26.51] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-11-13 18.15.03 - auto.zip] removed.
+[2021-11-22 10.40.51] Successfully created [AutoSave] backup [2021-11-22 10.40.51 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-22 10.40.51] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-11-13 22.15.03 - auto.zip].
+[2021-11-22 10.40.51] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-11-13 22.15.03 - auto.zip] removed.
+[2021-11-22 17.58.21] Successfully created [AutoSave] backup [2021-11-22 17.58.21 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-11-22 17.58.21] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-11-14 11.26.51 - auto.zip].
+[2021-11-22 17.58.21] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-11-14 11.26.51 - auto.zip] removed.
+[2021-12-06 11.58.29] Successfully created [AutoSave] backup [2021-12-06 11.58.29 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-12-06 11.58.29] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-11-14 15.26.51 - auto.zip].
+[2021-12-06 11.58.29] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-11-14 15.26.51 - auto.zip] removed.
+[2021-12-06 20.44.48] Successfully created [AutoSave] backup [2021-12-06 20.44.48 - auto.zip] requested by [DESKTOP-4VGHRT9:ARCUS Computer].
+[2021-12-06 20.44.48] Removing excessive [AutoSave] backup file [C:\Users\ARCUS Computer\Desktop\IC-Shelter\ProjectBackup\backups\2021-11-22 10.40.51 - auto.zip].
+[2021-12-06 20.44.48] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-11-22 10.40.51 - auto.zip] removed.
